@@ -1,0 +1,36 @@
+body{
+
+    background-color: black;
+}
+
+.container{
+
+background-color: aqua;
+/* justify-content: center; */
+margin-top: 150px;
+width: 500px;
+margin-left: 340px;
+padding: 70px;
+}
+.button{
+
+text-align: center;
+margin-top: 5px
+}
+
+.buttons:hover{
+width: 50px;
+background-color: brown;
+color: beige;
+}
+.timer{
+    font-size: xx-large;
+    color: black;
+padding: 5px;
+text-align: center;
+
+}
+.h1{
+
+    text-align: center;
+}
